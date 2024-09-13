@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Gino",
+        "last_name": "Gisbourn",
+        "email": "ggisbourn0@scribd.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Madella",
+        "last_name": "Reihill",
+        "email": "mreihill1@tripadvisor.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Romain",
+        "last_name": "Maddick",
+        "email": "rmaddick2@free.fr",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 4,
+        "first_name": "Umberto",
+        "last_name": "Meeland",
+        "email": "umeeland3@hubpages.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Crawford",
+        "last_name": "Duny",
+        "email": "cduny4@wikispaces.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Renaldo",
+        "last_name": "Borell",
+        "email": "rborell5@smugmug.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Abbey",
+        "last_name": "Ornillos",
+        "email": "aornillos6@ebay.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Tabbitha",
+        "last_name": "Paladini",
+        "email": "tpaladini7@cornell.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Hurleigh",
+        "last_name": "Powers",
+        "email": "hpowers8@latimes.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Aldrich",
+        "last_name": "Inseal",
+        "email": "ainseal9@blogs.com",
+        "gender": "Male"
+    }
+]
